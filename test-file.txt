@@ -3,3 +3,6 @@ This is a test file.
 JMUs colors:
 - Purple
 - Gold
+
+JMUs mascot:
+- 
