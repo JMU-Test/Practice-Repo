@@ -5,4 +5,4 @@ JMUs colors:
 - Gold
 
 JMUs mascot:
-- 
+- Duke dog
